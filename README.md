@@ -62,4 +62,9 @@ Made with [contributors-img](https://contrib.rocks).
 - JavaScript
 - APIs
 
-Published at: https://jdeschat.github.io/git-it-done/
+## Questions
+My Github username is jdeschat, which can be accessed here https://github.com/jdeschat/git-it-done.
+
+The Github page for this project can be accessed using the following link: https://jdeschat.github.io/git-it-done/.
+
+You can reach me at jdeschat@gmail.com with additional questions.
